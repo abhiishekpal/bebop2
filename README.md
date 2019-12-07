@@ -1,4 +1,4 @@
-#Making a bot from scratch
+# Making a bot from scratch
 
 1) do rasa init
 2) once all files are populted, we will make changes to it for our weather bot
@@ -9,7 +9,7 @@
 7) specify nlu i.e greeting, info, goodbye data data in nlu.md
 8) write stories to begin with which we can populate further by using rasa interactive.
 
-###Commands:
+### Commands:
 
 > train nlu command : rasa train nlu
 > in a new tab run : rasa run actions
