@@ -12,8 +12,11 @@
 ### Commands:
 
 > train nlu command : rasa train nlu
+
 > in a new tab run : rasa run actions
+
 > train the core command: rasa train
+
 > launch the rasa interactive to train model on the go: rasa interactive
 
 
